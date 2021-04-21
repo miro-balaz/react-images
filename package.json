@@ -1,6 +1,6 @@
 {
-  "name": "react-images",
-  "version": "1.2.0-beta.6",
+  "name": "react-images2",
+  "version": "1.2.0-beta.7",
   "description": "A mobile-friendly, highly customizable, carousel component for displaying media in ReactJS",
   "main": "lib/index.js",
   "jsnext:main": "dist/react-images.es.js",
@@ -74,7 +74,7 @@
     "react-focus-on": "^3.5.1",
     "react-full-screen": "^1.0.1",
     "react-transition-group": "^4.4.1",
-    "react-view-pager": "^0.6.0"
+    "react-view-pager2": "^0.6.0"
   },
   "peerDependencies": {
     "prop-types": "^15.7.2",

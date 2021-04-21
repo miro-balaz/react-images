@@ -15,7 +15,7 @@ const globals = {
   'react-dom': 'ReactDOM',
   'react-input-autosize': 'AutosizeInput',
   'raf-schd': 'rafScheduler',
-  'react-view-pager': 'PageView',
+  'react-view-pager2': 'PageView',
   'react-full-screen': 'Fullscreen',
   'a11y-focus-store': 'focusStore',
   'react-transition-group': 'Transition',

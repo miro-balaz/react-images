@@ -4,7 +4,7 @@ import React, { Component, type ElementRef } from 'react'
 import { findDOMNode } from 'react-dom'
 import glam from 'glam'
 import rafScheduler from 'raf-schd'
-import { ViewPager, Frame, Track, View as PageView } from 'react-view-pager'
+import { ViewPager, Frame, Track, View as PageView } from 'react-view-pager2'
 
 const viewPagerStyles = {
   flex: '1 1 auto',
